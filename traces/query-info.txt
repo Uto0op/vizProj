@@ -1,0 +1,130 @@
+ranker	qid	qlen	term_info
+deepimpact	1037798	3	who,2763636,207 robert,36070,223 gray,17411,235
+deepimpact	104861	4	cost,501344,181 interior,22352,212 concrete,28250,237 flooring,13915,211
+deepimpact	1063750	4	why,3112297,175 us,712284,151 enter,100466,171 ww1,7952,211
+deepimpact	1103812	5	who,2763636,207 formed,133798,144 commonwealth,5478,232 independent,44558,228 states,469401,162
+deepimpact	1106007	2	define,799950,160 visceral,2553,248
+deepimpact	1110199	4	what,4652091,75 wifi,23805,246 vs,289208,201 bluetooth,5858,251
+deepimpact	1112341	5	what,4652091,75 daily,124718,172 life,287492,194 thai,3475,233 people,771049,194
+deepimpact	1113437	4	what,4652091,75 physical,89907,166 description,83210,181 spruce,2932,242
+deepimpact	1114646	3	what,4652091,75 famvir,62,252 prescribed,54879,164
+deepimpact	1114819	5	what,4652091,75 durable,13326,192 medical,308825,161 equipment,55114,187 consist,35639,202
+deepimpact	1115776	4	what,4652091,75 aml,769,243 surveillance,3582,215 analyst,11463,219
+deepimpact	1117099	3	what,4652091,75 active,68862,214 margin,9724,218
+deepimpact	1121402	5	what,4652091,75 can,3680401,206 contour,1686,251 plowing,453,239 reduce,106793,209
+deepimpact	1121709	3	what,4652091,75 three,332311,185 percenters,47,200
+deepimpact	1124210	2	tracheids,127,252 part,554591,184
+deepimpact	1129237	5	hydrogen,24707,229 liquid,73097,204 below,213373,208 what,4652091,75 temperature,214888,202
+deepimpact	1133167	3	how,4393766,132 weather,150078,199 jamaica,4905,245
+deepimpact	130510	3	definition,1538171,145 declaratory,275,237 judgment,11714,219
+deepimpact	131843	2	definition,1538171,145 sigmet,20,253
+deepimpact	146187	5	difference,1396841,185 between,1762644,172 mcdouble,28,207 double,51789,214 cheeseburger,1129,231
+deepimpact	148538	4	difference,1396841,185 between,1762644,172 rn,18614,232 bsn,2229,240
+deepimpact	156493	2	goldfish,1443,252 grow,201632,203
+deepimpact	168216	4	legionella,358,249 pneumophila,139,230 cause,784923,157 pneumonia,13001,232
+deepimpact	182539	3	example,382474,174 monotonic,75,241 function,386943,171
+deepimpact	183378	3	exons,392,235 definition,1538171,145 biology,61984,145
+deepimpact	19335	3	anthropological,850,211 definition,1538171,145 environment,101827,202
+deepimpact	207786	4	how,4393766,132 sharks,5688,235 warm,58914,200 blooded,1594,145
+deepimpact	264014	5	how,4393766,132 long,1110155,176 life,287492,194 cycle,72532,225 flea,4643,227
+deepimpact	359349	4	how,4393766,132 find,744019,173 midsegment,42,251 trapezoid,973,252
+deepimpact	405717	4	cdg,262,237 airport,56701,197 main,469845,211 paris,14512,238
+deepimpact	443396	3	lps,943,246 laws,82381,151 definition,1538171,145
+deepimpact	451602	5	medicare,44984,233 s,4234707,197 definition,1538171,145 mechanical,19822,190 ventilation,6056,226
+deepimpact	47923	5	axon,5060,247 terminals,5850,197 synaptic,1505,249 knob,2582,201 definition,1538171,145
+deepimpact	489204	4	right,275022,189 pelvic,8501,245 pain,210548,215 causes,601528,168
+deepimpact	490595	3	rsa,2217,252 definition,1538171,145 key,91181,222
+deepimpact	527433	4	types,492458,139 dysarthria,279,252 cerebral,9367,210 palsy,2717,225
+deepimpact	573724	4	what,4652091,75 social,102254,193 determinants,1325,232 health,291345,167
+deepimpact	833860	5	what,4652091,75 most,1254332,172 popular,196326,215 food,333485,182 switzerland,12432,241
+deepimpact	855410	3	what,4652091,75 theraderm,6,253 used,1789020,168
+deepimpact	87181	4	causes,601528,168 left,135264,190 ventricular,5021,235 hypertrophy,1356,247
+deepimpact	87452	3	causes,601528,168 military,71022,190 suicide,7553,226
+deepimpact	915593	7	what,4652091,75 types,492458,139 food,333485,182 can,3680401,206 cook,120300,202 sous,550,235 vide,580,248
+deepimpact	962179	4	when,3582951,123 salvation,1874,213 army,60289,201 founded,112807,149
+doct5query	1037798	3	who,2826557,13 robert,42597,88 grai,18098,102
+doct5query	104861	4	cost,538460,45 interior,23483,98 concret,28939,94 floor,68568,80
+doct5query	1063750	5	why,3339040,9 did,1437280,27 us,3304918,9 enter,143859,68 ww1,8114,114
+doct5query	1103812	5	who,2826557,13 form,544581,45 commonwealth,5465,121 independ,67143,80 state,867948,37
+doct5query	1106007	2	defin,878968,37 viscer,2572,134
+doct5query	1110199	4	what,8651115,1 wifi,23654,98 vs,295825,56 bluetooth,5838,121
+doct5query	1112341	5	what,8651115,1 daili,126809,70 life,286498,56 thai,3759,127 peopl,775880,39
+doct5query	1113437	4	what,8651115,1 physic,135685,69 descript,92295,75 spruce,3262,130
+doct5query	1114646	3	what,8651115,1 famvir,62,194 prescrib,70704,80
+doct5query	1114819	5	what,8651115,1 durabl,16768,103 medic,463567,48 equip,64373,81 consist,132658,69
+doct5query	1115776	4	what,8651115,1 aml,796,153 surveil,3615,129 analyst,14377,106
+doct5query	1117099	3	what,8651115,1 activ,214360,61 margin,16706,103
+doct5query	1121402	5	what,8651115,1 can,3725431,6 contour,2850,132 plow,1970,138 reduc,160131,66
+doct5query	1121709	3	what,8651115,1 three,334756,53 percent,142799,68
+doct5query	1124210	2	tracheid,131,182 part,638878,42
+doct5query	1129237	5	hydrogen,26146,96 liquid,83089,77 below,211357,61 what,8651115,1 temperatur,230050,60
+doct5query	1133167	3	how,5489493,1 weather,154976,67 jamaica,4930,123
+doct5query	130510	3	definit,1607122,25 declaratori,276,170 judgment,13000,107
+doct5query	131843	2	definit,1607122,25 sigmet,24,210
+doct5query	146187	5	differ,1876950,22 between,1791954,23 mcdoubl,29,206 doubl,57461,83 cheeseburg,1302,145
+doct5query	148538	4	differ,1876950,22 between,1791954,23 rn,19796,100 bsn,2232,136
+doct5query	156493	3	do,4951239,1 goldfish,1448,143 grow,254544,58
+doct5query	168216	5	doe,5763671,1 legionella,357,166 pneumophila,137,181 caus,1005617,34 pneumonia,13954,106
+doct5query	182539	3	exampl,440109,49 monoton,443,163 function,450484,49
+doct5query	183378	3	exon,528,160 definit,1607122,25 biologi,66067,81
+doct5query	19335	3	anthropolog,3573,129 definit,1607122,25 environ,110110,72
+doct5query	207786	5	how,5489493,1 some,788501,39 shark,7554,117 warm,68664,80 blood,314038,55
+doct5query	264014	5	how,5489493,1 long,1133456,32 life,286498,56 cycl,81154,77 flea,6711,118
+doct5query	359349	4	how,5489493,1 find,815441,38 midseg,39,202 trapezoid,1104,148
+doct5query	405717	4	cdg,255,172 airport,59419,82 main,489722,47 pari,14675,105
+doct5query	443396	3	lp,6321,119 law,230489,60 definit,1607122,25
+doct5query	451602	4	medicar,45669,87 definit,1607122,25 mechan,58715,83 ventil,8132,115
+doct5query	47923	5	axon,7164,117 termin,33929,92 synapt,1556,142 knob,3209,130 definit,1607122,25
+doct5query	489204	4	right,324440,54 pelvic,8552,114 pain,236484,59 caus,1005617,34
+doct5query	490595	3	rsa,2257,136 definit,1607122,25 kei,97301,74
+doct5query	527433	5	type,2132280,19 dysarthria,278,171 from,3157284,10 cerebr,9834,112 palsi,2731,133
+doct5query	573724	4	what,8651115,1 social,107704,73 determin,290383,56 health,293299,56
+doct5query	833860	5	what,8651115,1 most,1271904,30 popular,212015,61 food,388318,51 switzerland,12711,108
+doct5query	855410	3	what,8651115,1 theraderm,5,234 us,3304918,9
+doct5query	87181	4	caus,1005617,34 left,135782,69 ventricular,5139,123 hypertrophi,1403,144
+doct5query	87452	3	caus,1005617,34 militari,71593,79 suicid,8563,114
+doct5query	915593	8	what,8651115,1 type,2132280,19 food,388318,51 can,3725431,6 you,3870478,5 cook,176093,64 sou,683,155 vide,654,156
+doct5query	962179	4	when,3650554,6 salvat,1939,138 armi,62674,81 found,653376,42
+original	1037798	3	who,479576,45 robert,24051,94 grai,15620,99
+original	104861	4	cost,280752,56 interior,17987,97 concret,21870,94 floor,47208,84
+original	1063750	5	why,101745,71 did,90157,71 us,1562526,25 enter,105261,70 ww1,425,138
+original	1103812	5	who,479576,45 form,375314,49 commonwealth,5243,112 independ,53041,80 state,580608,44
+original	1106007	2	defin,104566,70 viscer,2498,123
+original	1110199	4	what,543257,44 wifi,4475,119 vs,28413,90 bluetooth,4585,117
+original	1112341	5	what,543257,44 daili,81220,76 life,208754,60 thai,2751,126 peopl,450743,47
+original	1113437	4	what,543257,44 physic,95412,73 descript,50046,80 spruce,1954,132
+original	1114646	3	what,543257,44 famvir,59,158 prescrib,24716,95
+original	1114819	5	what,543257,44 durabl,12890,103 medic,217241,59 equip,49757,82 consist,103112,70
+original	1115776	4	what,543257,44 aml,626,145 surveil,2889,124 analyst,10565,105
+original	1117099	3	what,543257,44 activ,180996,62 margin,15413,101
+original	1121402	5	what,543257,44 can,1596800,24 contour,2709,125 plow,1327,143 reduc,114541,69
+original	1121709	3	what,543257,44 three,260351,54 percent,114435,69
+original	1124210	2	tracheid,131,159 part,374945,51
+original	1129237	5	hydrogen,24145,94 liquid,57980,83 below,206504,57 what,543257,44 temperatur,150790,65
+original	1133167	3	how,554924,44 weather,90398,76 jamaica,3782,124
+original	130510	3	definit,209713,61 declaratori,196,153 judgment,11330,105
+original	131843	2	definit,209713,61 sigmet,24,183
+original	146187	5	differ,385674,49 between,416710,47 mcdoubl,28,182 doubl,51954,83 cheeseburg,642,145
+original	148538	4	differ,385674,49 between,416710,47 rn,7297,109 bsn,2073,124
+original	156493	3	do,519537,46 goldfish,1397,138 grow,119459,68
+original	168216	5	doe,262416,55 legionella,351,157 pneumophila,137,150 caus,442447,47 pneumonia,8920,109
+original	182539	3	exampl,289954,54 monoton,405,148 function,158133,64
+original	183378	3	exon,494,146 definit,209713,61 biologi,14371,101
+original	19335	3	anthropolog,1918,132 definit,209713,61 environ,58660,81
+original	207786	5	how,554924,44 some,586512,43 shark,6730,113 warm,56003,80 blood,231732,58
+original	264014	5	how,554924,44 long,286932,54 life,208754,60 cycl,50349,81 flea,5416,116
+original	359349	4	how,554924,44 find,309799,52 midseg,38,183 trapezoid,746,148
+original	405717	4	cdg,193,156 airport,40020,86 main,135833,66 pari,13404,104
+original	443396	3	lp,2888,121 law,140251,67 definit,209713,61
+original	451602	4	medicar,22027,94 definit,209713,61 mechan,46297,83 ventil,6354,111
+original	47923	5	axon,4518,114 termin,26929,92 synapt,1378,133 knob,2649,129 definit,209713,61
+original	489204	4	right,265512,57 pelvic,7529,108 pain,159071,64 caus,442447,47
+original	490595	3	rsa,602,152 definit,209713,61 kei,85915,74
+original	527433	5	type,407766,49 dysarthria,258,158 from,1820739,22 cerebr,6679,111 palsi,2569,127
+original	573724	4	what,543257,44 social,92070,73 determin,134190,65 health,205466,59
+original	833860	5	what,543257,44 most,783496,37 popular,120453,67 food,245010,57 switzerland,6118,114
+original	855410	3	what,543257,44 theraderm,5,160 us,1562526,25
+original	87181	4	caus,442447,47 left,115210,68 ventricular,3361,121 hypertrophi,1221,135
+original	87452	3	caus,442447,47 militari,43317,84 suicid,7598,112
+original	915593	8	what,543257,44 type,407766,49 food,245010,57 can,1596800,24 you,1863902,22 cook,95968,71 sou,614,139 vide,586,145
+original	962179	4	when,837448,36 salvat,1571,133 armi,31760,89 found,282347,54
