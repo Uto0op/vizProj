@@ -1,2 +1,2 @@
 # vizProj
-# vizProj
+Run the app.py
